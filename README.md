@@ -1,4 +1,4 @@
-Hi there 👋, I'm Timothée Lesort, a Senior Research Scientist at Imec-AiLabs. 
+Hi there 👋, I'm Timothée Lesort, a Senior Research Scientist at [Imec-AiLabs](https://ailabs.imecai.com/). 
 I am working on developing next generation of agentic LLMs through self-improvement.
 I worked previously as Senior Data Scientist [Aignostics GmbH](https://www.aignostics.com/) in Berlin, working on training large-scale vision transformers for histopathology (mostly tweaking Dinov2 training), aiming to improve cancer and rare disease diagnostics.
 
